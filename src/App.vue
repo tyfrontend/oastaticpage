@@ -43,7 +43,7 @@
             <div class="skCont">
 
               <div class="skLine">
-                <div class="skLeft">星期一第五节</div>
+                <div class="skLeft">星期扒的更新一第五节</div>
                 <div class="skRight">
                   <el-select v-model="type_5" placeholder="请选择授课地点">
                     <el-option
