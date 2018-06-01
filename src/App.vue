@@ -5,7 +5,7 @@
 
     <div class="oarow">
       <el-row>
-        <el-button type="primary">保存</el-button>
+        <el-button type="primary">保存存</el-button>
         <el-button type="primary">保存并添加</el-button>
         <el-button type="primary">返回</el-button>
       </el-row>
@@ -43,7 +43,7 @@
             <div class="skCont">
 
               <div class="skLine">
-                <div class="skLeft">星期扒的更新一第五节</div>
+                <div class="skLeft">星五节</div>
                 <div class="skRight">
                   <el-select v-model="type_5" placeholder="请选择授课地点">
                     <el-option
